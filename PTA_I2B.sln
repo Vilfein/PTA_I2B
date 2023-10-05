@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PTA_I2B", "PTA_I2B\PTA_I2B.csproj", "{64163046-97BC-4C90-9B75-A297770AF402}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64163046-97BC-4C90-9B75-A297770AF402}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64163046-97BC-4C90-9B75-A297770AF402}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64163046-97BC-4C90-9B75-A297770AF402}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64163046-97BC-4C90-9B75-A297770AF402}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {571B9731-2FAE-4629-A0EC-7A00A9650C05}
+	EndGlobalSection
+EndGlobal
